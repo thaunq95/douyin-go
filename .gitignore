@@ -1,0 +1,33 @@
+# Compiled binaries
+/douyin-go
+/douyin-go.exe
+/douyin-go.test
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# User Configuration (contains private session cookies/proxies)
+config.yaml
+
+# Downloaded files
+downloads/
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
